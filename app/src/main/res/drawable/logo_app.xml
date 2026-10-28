@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PROVISIONAL: logo genérico (caja de insumos con cruz) mientras no se cuente con el
+     logo oficial. Para reemplazarlo: copiar el PNG oficial a res/drawable/ con el nombre
+     logo_app.png y borrar este .xml (el código no cambia). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="120"
+    android:viewportHeight="120">
+    <path android:fillColor="@color/marca_verde" android:pathData="M4,60 A56,56 0 1,1 116,60 A56,56 0 1,1 4,60 Z" />
+    <!-- Caja -->
+    <path android:fillColor="@color/marca_blanco" android:pathData="M30,46 L90,46 L90,92 L30,92 Z" />
+    <path android:fillColor="@color/marca_verde_claro" android:pathData="M26,36 L94,36 L94,48 L26,48 Z" />
+    <!-- Cruz -->
+    <path android:fillColor="@color/marca_verde" android:pathData="M54,54 L66,54 L66,63 L75,63 L75,75 L66,75 L66,84 L54,84 L54,75 L45,75 L45,63 L54,63 Z" />
+</vector>
