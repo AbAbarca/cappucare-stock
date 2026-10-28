@@ -4,7 +4,7 @@ Proyecto Android base para el caso de Vinculación con el Medio **"Control intel
 
 ## Avance del equipo (completar antes de entregar)
 
-- **Integrantes:** Absalom Moisés Abarca Venegas · _[nombre del segundo integrante]_
+- **Integrantes:** Absalom Moisés Abarca Venegas · Daniel Parada
 - **Repositorio GitHub:** _[pegar enlace]_
 - **Implementado hasta ahora:** RF-04 (registrar ingreso), RF-05 (registrar salida, incluidas ventas), RF-06 (responsable del movimiento) y RF-07 (actualización automática de la cantidad disponible), con las reglas RN-01, RN-02, RN-03 y RN-05 aplicadas en `CappucareViewModel.validarMovimiento()` y `registrarMovimiento()`.
 - **Pendiente:** login real, RF-01 a RF-03, RF-08 a RF-10, persistencia con Room, recurso nativo (con su justificación) y animaciones.
